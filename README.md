@@ -29,4 +29,4 @@ An example screenshot of the application is below.
 
 
 ## Deployed Application
-Deployed: <a href="cu-budget-tracker.herokuapp.com">cu-budget-tracker.herokuapp.com</a>
+[cu-budget-tracker.herokuapp.com](https://cu-budget-tracker.herokuapp.com/)
