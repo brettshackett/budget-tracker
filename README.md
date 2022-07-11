@@ -9,9 +9,6 @@ Budget Tracker is a progressive web application that allows users to track their
 - [Installation](#installation)
 - [Usage](#usage)
 - [Example Usage](#example-usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Questions](#questions)
 
 ## Installation
 
@@ -31,14 +28,3 @@ An example screenshot of the application is below.
 
 ![screenshot](assets/screenshot.jpg)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-If you want to contribute, open a Pull Request and include a detailed description and screenshots of the changes.
-
-## Questions
-
-If you have any questions about the repo, open an issue or contact [ryan-harris](https://github.com/ryan-harris) directly at harris.ucla@gmail.com.
